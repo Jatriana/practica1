@@ -14,5 +14,5 @@
 - ¿Qué comando o comandos utilizaste en el paso 28?git checkout, git branch , git checkout rama
 - ¿Qué comando o comandos utilizaste en el paso 29?git branch -D
 - ¿Qué comando o comandos utilizaste en el paso 30?git checkout, git branch , git checkout rama
-- ¿Qué comando o comandos usaste en el paso 32?git 
-- ¿Qué comando o comandos usaste en el punto 33?
+- ¿Qué comando o comandos usaste en el paso 32?
+- ¿Qué comando o comandos usaste en el punto 33 df0909a
